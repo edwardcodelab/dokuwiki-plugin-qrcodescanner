@@ -1,0 +1,7 @@
+base   qrcodescanner
+author dodotori @ dokuwiki forum
+email  dodotori@localhost
+date   2022-10-19
+name   qrcodescanner plugin
+desc   a qrcodescanner for bureaucracy form input
+url    https://github.com/edwardcodelab/qrcodescanner

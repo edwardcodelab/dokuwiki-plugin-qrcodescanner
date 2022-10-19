@@ -1,0 +1,2 @@
+<?
+$meta['inputarea'] = array('string');
